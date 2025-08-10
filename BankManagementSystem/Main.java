@@ -9,7 +9,7 @@ public class Main {
         BankAccount currentAccount = null;
 
         while (true) {
-            System.out.println("\n\tWelcome to Kalyan Bank");
+            System.out.println("\n\tWelcome to chaitanya Bank");
             System.out.println("1. Create Account");
             System.out.println("2. Deposit");
             System.out.println("3. Withdraw");
@@ -88,3 +88,4 @@ public class Main {
         return account;
     }
 }
+

@@ -24,6 +24,5 @@ This is a **Core Java console-based project** using `HashMap` for storing accoun
 - **OOP Principles** (Encapsulation, Abstraction)
 - **Console I/O** (`Scanner`)
 
----
+Output
 
-## 📂 Project Structure

@@ -27,7 +27,24 @@ This is a **Core Java console-based project** using `HashMap` for storing accoun
 
 ---
 
-## Output
+## 📸 Output Screenshots
+
+
+
+### 2️⃣ Creating an Account (Input: Account No, Name, Initial Balance)
+![Create Account](image.png)
+
+### 3️⃣ Deposit Money (Input: Account No, Deposit Amount)
+![Deposit](deposit.png)
+
+### 4️⃣ Withdraw Money (Input: Account No, Withdraw Amount)
+![Withdraw](withdraw.png)
+
+### 5️⃣ Fixed Deposit (Input: Account No, FD Amount)
+![Fixed Deposit](fd.png)
+
+### 6️⃣ Check Balance (Output: Available Balance, FD Amount)
+![Check Balance](balance.png)
 
 
 
